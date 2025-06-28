@@ -169,10 +169,6 @@ src/
 ![充值管理](/images/recharge.png)
 ![操作记录](/images/operations.png)
 
-## 开源协议
-
-本项目采用 [GNU General Public License v3.0](https://www.gnu.org/licenses/gpl-3.0.en.html) 开源协议。
-
 ### 重要说明
 - 本项目为课程设计作品，仅供学习和参考
 - 禁止将本项目用于商业用途
